@@ -1,0 +1,6 @@
+[package]
+name = "wasp"
+version = "0.1.0"
+authors = ["gilo <gilotto.is@gmail.com>"]
+
+[dependencies]
